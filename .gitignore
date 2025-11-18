@@ -2,5 +2,4 @@ node_modules/
 scripts/node_modules/
 package-lock.json
 .DS_Store
-capturas/
 data/
